@@ -1,75 +1,73 @@
-Thanks! Here's your **updated GitHub `README.md` file** with all the certifications included:
+# 👋 Hello there! I'm Shaik Joveriya Sujeen
 
----
-
-```markdown
-# 👋 Hi there, I'm Shaik Joveriya Sujeen!
-
-🎓 **B.Tech Student | Artificial Intelligence & Machine Learning**  
-💻 **Aspiring Web Developer & Software Engineer**  
+🎓 B.Tech Student (AI & ML) | 💻 Aspiring Web Developer & Software Engineer  
 📍 Hyderabad, India  
+📧 skjoveriya@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/sk-joveriya-sujeen-b77113294)
 
 ---
 
-## 🚀 About Me
+## 🧑‍💻 About Me
 
-I'm a curious and motivated Computer Science student with a passion for building impactful digital experiences. I enjoy working on projects that blend creativity with technology—especially in web development and software engineering.
-
-I believe in learning by doing, and I love collaborating on projects, participating in internships, and exploring new tech trends in AI/ML and UI/UX.
+I'm a passionate and curious learner currently pursuing a B.Tech in Artificial Intelligence and Machine Learning.  
+With a strong foundation in web development, Python programming, and software engineering, I love solving problems and turning ideas into real-world digital solutions.  
+I actively take part in internships, simulations, and self-directed learning to build strong technical and soft skills.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Skills
 
-- **Languages:** Python, Java, C  
-- **Web:** HTML, CSS, JavaScript  
+### ✅ Existing Skills
+- **Programming Languages:** Python, Java, C  
+- **Web Development:** HTML, CSS, JavaScript  
 - **Tools:** Git & GitHub, Canva, Figma, User Testing Tools  
-- **Concepts:** Responsive Design, Accessibility, Generative AI (Basics)
+- **Concepts:** Responsive Design, Accessibility, UI/UX, Generative AI Basics
+
+### 📚 Planning to Learn
+- React.js  
+- Node.js  
+- MongoDB  
+- AWS Cloud Fundamentals  
+- Machine Learning Libraries (scikit-learn, TensorFlow)
 
 ---
 
-## 📂 Projects
+## 📂 Projects I Worked On
 
-### 🎓 Studentopia Website  
-> A responsive website designed to help students access useful resources and updates. Built using HTML, CSS, and JavaScript.
+### 💡 Studentopia Website  
+A responsive and informative student portal created using HTML, CSS, and JavaScript.  
+→ *Focus: Clean UI, Responsive Design, Frontend Development*
 
 ### 🎮 Tic-Tac-Toe Game (Python)  
-> A fun command-line Python game that applies core programming logic and interactive design.
+A command-line Python game applying logical programming and control structures.  
+→ *Focus: Game Logic, Python Scripting, CLI UX*
 
 ---
 
 ## 📜 Certifications
 
-- **[What is Generative AI? – LinkedIn](https://www.linkedin.com/learning/)**  
-  *(Completed on Feb 03, 2025)*  
-  - Topics: Generative AI Tools, Artificial Intelligence
-
-- **[Generative AI: The Evolution of Thoughtful Online Search – LinkedIn](https://www.linkedin.com/learning/)**  
-  *(Completed on Nov 02, 2024)*  
-  - Topics: Search Engine Technology, Generative AI for Business
-
-- **AWS Solutions Architecture Job Simulation – Forage**  
-  *(Completed May 15, 2025)*  
-  - Skills: Scalable Hosting Architecture Design
-
-- **Cybersecurity Job Simulation – Deloitte x Forage**  
-  *(Completed May 15, 2025)*  
-  - Skills: Cybersecurity task simulations
-
-- **Data Analytics & Visualization Job Simulation – Forage**  
-  *(Completed May 15, 2025)*  
-  - Skills: Data Cleaning, Visualization, Storytelling
+- ✅ *What Is Generative AI?* – LinkedIn Learning  
+- ✅ *Generative AI: The Evolution of Thoughtful Online Search* – LinkedIn Learning  
+- ✅ *AWS Solutions Architecture Job Simulation* – Forage  
+- ✅ *Cybersecurity Job Simulation* – Deloitte x Forage  
+- ✅ *Data Analytics & Visualization Job Simulation* – Forage
 
 ---
 
-## 📫 Contact Me
+## 🎯 Aspirations
+
+I aspire to become:
+- 💡 An **AI Engineer** with a focus on intelligent applications  
+- ☁️ A **Cloud Engineer** skilled in scalable infrastructure and DevOps  
+- 🌐 A **Full Stack Web Developer** with real-world, user-first design principles
+
+---
+
+## 📫 Let's Connect!
 
 - 📧 Email: skjoveriya@gmail.com  
-- 🔗 LinkedIn: [linkedin.com/in/sk-joveriya-sujeen-b77113294](https://linkedin.com/in/sk-joveriya-sujeen-b77113294)
+- 🔗 LinkedIn: [linkedin.com/in/sk-joveriya-sujeen-b77113294](https://www.linkedin.com/in/sk-joveriya-sujeen-b77113294)  
+- 💼 Portfolio: *Coming soon!*
 
 ---
 
-> 💡 *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House
-```
-
-
+> *“The best way to predict the future is to create it.” – Peter Drucker*
